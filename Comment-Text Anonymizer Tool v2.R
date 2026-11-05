@@ -457,7 +457,7 @@ shinyApp(ui = ui, server = server)
 
 
 
-#### Old code #### 
+#### Old code (version 1 with spacyr) #### 
 
 
 
